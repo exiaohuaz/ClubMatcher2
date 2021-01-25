@@ -1,0 +1,6 @@
+NAME Asian Students Association
+TAG Multicultural 
+SIZE 82
+MEETINGTIME 8490 8549
+TIMECOM 60
+NOTES Founded in 1990, the Asian Students Association serves as the largest Asian culture affinity group at Carnegie Mellon. Our goal is to spread awareness of the cultural diversity of Asia within the Carnegie Mellon University community. For more information, please contact Jeremy Xue: jhxue@andrew.cmu.edu .

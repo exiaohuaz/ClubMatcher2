@@ -1,0 +1,6 @@
+NAME Orientation 
+TAG AnnualCampusEvent 
+SIZE 49
+MEETINGTIME 8400 8459
+TIMECOM 60
+NOTES Carnegie Mellon's week-long Orientation will help you get to know CMU and Pittsburgh, meet new friends and have a great time doing it! We are so excited to welcome you to our Carnegie Mellon family! For more information, please contact Julie Schultz: julianes@andrew.cmu.edu .

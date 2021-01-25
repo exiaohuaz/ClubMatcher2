@@ -1,0 +1,6 @@
+NAME Aerospace Club
+TAG Professional-Academic 
+SIZE 82
+MEETINGTIME 11070 11129
+TIMECOM 60
+NOTES The Aerospace Club is Carnegie Mellon University’s resident group of students dedicated to the study of aeronautical engineering through practical learning, collaboration & innovation. For more information, please contact Andrew Hutner: ahutner@andrew.cmu.edu .

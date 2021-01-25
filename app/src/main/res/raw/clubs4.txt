@@ -1,0 +1,6 @@
+NAME Student Body Vice President for Organizations
+TAG Student-Government Techonology 
+SIZE 41
+MEETINGTIME 5520 5639
+TIMECOM 120
+NOTES The Student Body Vice President for Organizations chairs the Committee on Student Organizations (CoSO), and the University Center Allocations Board (UCAB), and a Executive Board member for Student Government. For more information, please contact Elizabeth Guo: zkg@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME ABLE CMU
+TAG GeneralInterestAndInvolvement 
+SIZE 100
+MEETINGTIME 6840 6899
+TIMECOM 60
+NOTES ABLE CMU is an organization created specifically to serve the needs and interests of disabled and chronically ill students at Carnegie Mellon. ABLE centers both around social support where students can meet and interact with one another and advocacy.  For more information, please contact Katelyn Bloomquist: kbloomqu@andrew.cmu.edu .

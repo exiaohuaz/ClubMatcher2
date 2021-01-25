@@ -1,0 +1,6 @@
+NAME American Society of Civil Engineers
+TAG Professional-Academic 
+SIZE 99
+MEETINGTIME 11070 11129
+TIMECOM 60
+NOTES Founded in 1852, ASCE represents more than 144,000 members of the civil engineering profession worldwide, and is America’s oldest national engineering society. ASCE’s vision is to position engineers as global leaders building a better quality of life. For more information, please contact Emma Farrell: efarrell@andrew.cmu.edu .

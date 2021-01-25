@@ -1,0 +1,6 @@
+NAME Carnegie Mellon Solar Racing
+TAG Techonology 
+SIZE 73
+MEETINGTIME 8370 8489
+TIMECOM 120
+NOTES Carnegie Mellon Solar Racing (CMSR) is an undergraduate engineering organization dedicated to the promotion and use of solar energy. The CMSR team researches, designs, and engineers all aspects of a solar-electric boat for competitions around the world. For more information, please contact Muzaffer Tasoglu: mtasoglu@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME Magic@CMU
+TAG Gaming 
+SIZE 95
+MEETINGTIME 9900 9959
+TIMECOM 60
+NOTES Officially founded in 2010, CMU has been playing Magic: the Gathering since its inception. We foster casual and entry-level tournament play, as well as forming teams for higher level play. New players and players of all skill levels are welcome! For more information, please contact Justin Tunis: jtunis@andrew.cmu.edu .

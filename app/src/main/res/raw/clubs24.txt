@@ -1,0 +1,6 @@
+NAME CMU Magicians
+TAG Performance-Artistic 
+SIZE 29
+MEETINGTIME 3900 3959
+TIMECOM 60
+NOTES CMU Magicians aims to create a community in which established and aspiring magicians can grow and improve their skills. For more information, please contact Alex Zheng: azzheng@andrew.cmu.edu .

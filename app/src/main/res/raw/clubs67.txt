@@ -1,0 +1,6 @@
+NAME re:verb
+TAG MediaAndPublications Political-Activism Multicultural Performance-Artistic 
+SIZE 98
+MEETINGTIME 1080 1139
+TIMECOM 60
+NOTES re:verb is an organization dedicated to amplifying and circulating the voices of scholars, intellectuals, activists, and more. We produce an eponymous podcast, re:verb, and an associated website, which engage with pressing topics of the day. For more information, please contact Alex Helberg: ahelberg@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME University Health Services
+TAG Gaming 
+SIZE 66
+MEETINGTIME 4020 4079
+TIMECOM 60
+NOTES event":null,"organization":{"id":66606,"communityId":270,"institutionId":55,"name":"University Health Services","shortName":"Health Services","nameSortKey":"U","websiteKey":"health-services","email":"askrd@andrew.cmu.edu","description":null,"summary":"University Health Services offers primary medical care, health promotion, and insurance services to students. For more information, please contact Paula Martin: paulam@andrew.cmu.edu .

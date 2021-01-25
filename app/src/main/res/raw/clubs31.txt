@@ -1,0 +1,6 @@
+NAME Hillel Jewish Students Association
+TAG Multicultural 
+SIZE 100
+MEETINGTIME 990 1049
+TIMECOM 60
+NOTES Hillel JSA is a CMU student organization that serves the Jewish community of Carnegie Mellon University and the Pittsburgh region by providing for the advancement of Jewish life on campus. All Jewish Students are welcome, regardless of denomination. For more information, please contact Talia Solomon: tsolomon@andrew.cmu.edu .

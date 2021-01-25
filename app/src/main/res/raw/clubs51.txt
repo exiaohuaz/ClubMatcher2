@@ -1,0 +1,6 @@
+NAME Office of the Dean of Student Affairs
+TAG Gaming 
+SIZE 32
+MEETINGTIME 1230 1349
+TIMECOM 120
+NOTES The Office of the Dean provides central leadership of the metacurricular experience at Carnegie Mellon, including divisional strategic planning, coordination of student support and crisis intervention, and facilitation of divisional assessment.  For more information, please contact Shari Zingle: szingle@andrew.cmu.edu .

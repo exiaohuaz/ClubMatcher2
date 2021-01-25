@@ -1,0 +1,6 @@
+NAME Student Body President
+TAG Student-Government Techonology 
+SIZE 29
+MEETINGTIME 1020 1079
+TIMECOM 60
+NOTES Founded in 1905 For more information, please contact Evan Feder: efeder@andrew.cmu.edu .

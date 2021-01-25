@@ -1,0 +1,6 @@
+NAME AB Lectures
+TAG GeneralInterestAndInvolvement 
+SIZE 57
+MEETINGTIME 8280 8339
+TIMECOM 60
+NOTES Activities Board Lectures is a committee of the Activities Board whose purpose is to bring speakers of a variety backgrounds  to CMU campus. For more information, please contact Lindsey Helsel: lhelsel@andrew.cmu.edu .

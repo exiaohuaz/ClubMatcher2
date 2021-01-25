@@ -1,0 +1,6 @@
+NAME Chess Club
+TAG Gaming 
+SIZE 39
+MEETINGTIME 2460 2519
+TIMECOM 60
+NOTES Founded in 2006\r\nWe provide weekly meetings for chess enthusiasts of all levels and have study sessions to improve our play.  We also support competitive play, sending teams to local and national tournaments, many of which we have won! For more information, please contact Nathan Holzmueller: nholzmue@andrew.cmu.edu .

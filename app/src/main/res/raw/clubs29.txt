@@ -1,0 +1,6 @@
+NAME CMU International Film Festival
+TAG Performance-Artistic 
+SIZE 57
+MEETINGTIME 9810 9929
+TIMECOM 120
+NOTES The Carnegie Mellon International Film Festival aims to showcase the artistry of international filmmakers and bring them to the CMU campus to interact and enrich the CMU community with film, discussion, and culture. For more information, please contact Sean McGadden: smcgadde@andrew.cmu.edu .

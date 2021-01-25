@@ -1,0 +1,6 @@
+NAME Carnegie Mellon Rocket Command
+TAG Techonology 
+SIZE 54
+MEETINGTIME 2430 2489
+TIMECOM 60
+NOTES We compete in collegiate high powered rocketry competitions, and provide opportunities for people of all skill levels to get involved and learn about rocketry.\r\n For more information, please contact Mel Bryan: mbryan1@andrew.cmu.edu .

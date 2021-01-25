@@ -1,0 +1,6 @@
+NAME Alpha Chi Omega 
+TAG GreekLife 
+SIZE 50
+MEETINGTIME 6840 6899
+TIMECOM 60
+NOTES Together Let Us Seek the Heights. For more information, please contact Naomi Shin: nyshin@andrew.cmu.edu .

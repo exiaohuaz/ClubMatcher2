@@ -1,0 +1,6 @@
+NAME Catholic Newman Club
+TAG Religious-Spiritual 
+SIZE 35
+MEETINGTIME 2640 2759
+TIMECOM 120
+NOTES Founded in 1995, intending to bring Catholic students together for fellowship, prayer and the sacraments.  For more information, please contact Vayda Farino: vjf@andrew.cmu.edu .

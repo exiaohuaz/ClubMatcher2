@@ -1,0 +1,6 @@
+NAME Emerging Leaders
+TAG AnnualCampusEvent 
+SIZE 15
+MEETINGTIME 8220 8279
+TIMECOM 60
+NOTES For spring semester first-year students who want to focus on self-exploration and discovery of personal values and goals. For more information, please contact Meredith Hassenrik: mhassenr@andrew.cmu.edu .

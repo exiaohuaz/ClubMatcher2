@@ -1,0 +1,6 @@
+NAME CMU ChemE Car
+TAG Techonology 
+SIZE 71
+MEETINGTIME 4140 4259
+TIMECOM 120
+NOTES ChemE Car competes in annual regional and national AIChE competitions to build a model-sized car that is propelled and stopped by chemical reactions. For more information, please contact John Solomon: jlsolomo@andrew.cmu.edu .

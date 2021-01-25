@@ -1,0 +1,6 @@
+NAME Baseball Club
+TAG Sports-Martial Arts 
+SIZE 71
+MEETINGTIME 11340 11399
+TIMECOM 60
+NOTES The Baseball Club allows students to partake in competitive baseball in both the Fall and Spring semesters. For more information, please contact John Schuman: jpschuma@andrew.cmu.edu .

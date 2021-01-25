@@ -1,0 +1,6 @@
+NAME Pittsburgh Go Association
+TAG Gaming 
+SIZE 31
+MEETINGTIME 5550 5669
+TIMECOM 120
+NOTES Weekly meetings to learn, play, and teach the game of go to students at Carnegie Mellon University as well as members of the greater pittsburgh community For more information, please contact Avi Rudich: arudich@andrew.cmu.edu .

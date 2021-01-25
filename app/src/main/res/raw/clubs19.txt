@@ -1,0 +1,6 @@
+NAME Game Creation Society
+TAG Gaming 
+SIZE 99
+MEETINGTIME 1320 1439
+TIMECOM 120
+NOTES We welcome students from all backgrounds in getting together to make awesome video games.\r\n\r\nAll levels of experience are welcome; all we require is that you love games and think making them would be cool. Check us out @ www.gamecreation.org! For more information, please contact Carter Williams: ncwillia@andrew.cmu.edu .

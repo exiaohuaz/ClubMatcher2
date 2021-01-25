@@ -1,0 +1,6 @@
+NAME Housing Services
+TAG Gaming 
+SIZE 59
+MEETINGTIME 4020 4079
+TIMECOM 60
+NOTES CMU Housing Services seeks to promote an independent and engaging residential experience that allows students to positively adjust and flourish though their collegiate journey.  For more information, please contact Mandi Semple: msemple@andrew.cmu.edu .

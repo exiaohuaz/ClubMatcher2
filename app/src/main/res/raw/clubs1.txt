@@ -1,0 +1,6 @@
+NAME AB Cafe
+TAG GeneralInterestAndInvolvement 
+SIZE 48
+MEETINGTIME 2700 2759
+TIMECOM 60
+NOTES A permanent committee whose purpose is to organize small events for the campus community as a whole in the Skibo Cafe room.  For more information, please contact Erika Kim: erikak@andrew.cmu.edu .

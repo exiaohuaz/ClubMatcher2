@@ -1,0 +1,6 @@
+NAME CMU Drone Racing Club
+TAG Techonology 
+SIZE 65
+MEETINGTIME 6720 6779
+TIMECOM 60
+NOTES This club seeks to design, build, and race high performance quad-copters on a competitive level. For more information, please contact Elio Bourcart: ebourcar@andrew.cmu.edu .

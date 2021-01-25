@@ -1,0 +1,6 @@
+NAME C#
+TAG Performance-Artistic 
+SIZE 43
+MEETINGTIME 1230 1289
+TIMECOM 60
+NOTES C# is an organization that develops programs that contribute to the growth of a supportive musical community, where members are encouraged to unwind from academics by challenging themselves as singers, performers, and leaders.  For more information, please contact Gabriel Krotkov: gkrotkov@andrew.cmu.edu .

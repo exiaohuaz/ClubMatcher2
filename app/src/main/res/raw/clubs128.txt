@@ -1,0 +1,6 @@
+NAME AB Films
+TAG GeneralInterestAndInvolvement 
+SIZE 60
+MEETINGTIME 8400 8459
+TIMECOM 60
+NOTES AB Films is a sub-committee of the Activities Board. We screen movies in McConomy Auditorium in the Cohon University Center nearly every weekend. For more information, please contact Aaron Selesi: aselesi@andrew.cmu.edu .

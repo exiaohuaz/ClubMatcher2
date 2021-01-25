@@ -1,0 +1,6 @@
+NAME CMU Esports
+TAG Gaming 
+SIZE 57
+MEETINGTIME 8310 8369
+TIMECOM 60
+NOTES CMU Esports is home to gamers of all backgrounds, interests, and skill levels at CMU. Divisions include League of Legends, Hearthstone, Overwatch, Dota 2, CS:GO, Super Smash Bros., FGC, and PUBG.\r\n For more information, please contact Rachel Cronson: rcronson@andrew.cmu.edu .

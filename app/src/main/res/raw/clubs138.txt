@@ -1,0 +1,6 @@
+NAME Here For You
+TAG Political-Activism 
+SIZE 60
+MEETINGTIME 9900 9959
+TIMECOM 60
+NOTES Here for you aims to address the issues that CMU faces regarding student mental health, primarily the lack of support in the campus culture. For more information, please contact Kyounghwa Kim: kyounghk@andrew.cmu.edu .

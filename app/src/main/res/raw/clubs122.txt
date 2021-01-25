@@ -1,0 +1,6 @@
+NAME CMU Foosball Club
+TAG Gaming 
+SIZE 82
+MEETINGTIME 8250 8309
+TIMECOM 60
+NOTES We are the Foosball Club of Carnegie Mellon University. The purpose of this club is to increase the awareness of competitive foosball on campus as well as encourage and improve play amongst our members. For more information, please contact Ari Cohn: acohn@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME AB Comedy
+TAG GeneralInterestAndInvolvement 
+SIZE 24
+MEETINGTIME 3840 3899
+TIMECOM 60
+NOTES A committee whose \"purpose\" is to provide the campus community with \"funny\" comedy shows during the \"school year.\" For more information, please contact Jonathan Goodstein: jgoodste@andrew.cmu.edu .

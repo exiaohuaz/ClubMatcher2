@@ -1,0 +1,6 @@
+NAME AB Coffeehouse
+TAG GeneralInterestAndInvolvement 
+SIZE 43
+MEETINGTIME 11160 11219
+TIMECOM 60
+NOTES A permanent committee whose purpose is to provide medium-priced musical entertainment for the campus community as a whole at subsidized prices. For more information, please contact Ethan Rich: etrich@andrew.cmu.edu .

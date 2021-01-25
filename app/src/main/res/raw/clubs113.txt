@@ -1,0 +1,6 @@
+NAME Filipino Student Association
+TAG Multicultural 
+SIZE 56
+MEETINGTIME 2430 2489
+TIMECOM 60
+NOTES The Filipino Student Association is an organization that aims to provide a community for members of the Carnegie Mellon University community with Filipino heritage. For more information, please contact Miguel Martinez: miguelm1@andrew.cmu.edu .

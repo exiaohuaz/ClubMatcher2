@@ -1,0 +1,6 @@
+NAME Graduate Student Assembly
+TAG Student-Government Techonology 
+SIZE 54
+MEETINGTIME 5400 5459
+TIMECOM 60
+NOTES www.cmu.edu/gsa  - GSA broadly represents the interests of graduate students at CMU.  We serve as a bridge between students and the administration, organize social and community events, and manage graduate student activities fees.   For more information, please contact Surya Aggarwal: sda@andrew.cmu.edu .

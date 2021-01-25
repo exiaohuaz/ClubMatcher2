@@ -1,0 +1,6 @@
+NAME Office of International Education
+TAG Gaming 
+SIZE 46
+MEETINGTIME 6780 6839
+TIMECOM 60
+NOTES event":null,"organization":{"id":65688,"communityId":270,"institutionId":55,"name":"Office of International Education","shortName":"OIE","nameSortKey":"O","websiteKey":"officeofinternationaleducation","email":null,"description":null,"summary":"The Office of International Education advocates for and facilitates international and cross-cultural experiences, perspectives and initiatives such as study abroad, as well provides support to international students, researchers and professors. For more information, please contact Linda Gentile: lgentile@andrew.cmu.edu .

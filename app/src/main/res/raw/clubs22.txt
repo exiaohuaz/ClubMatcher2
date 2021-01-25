@@ -1,0 +1,6 @@
+NAME American Society of Mechanical Engineers
+TAG Professional-Academic 
+SIZE 18
+MEETINGTIME 11280 11399
+TIMECOM 120
+NOTES ASME's goal is to promote and cultivate the growth of engineering skills throughout the Carnegie Mellon Campus. For more information, please contact Lucy Cheung: lucyc@andrew.cmu.edu .

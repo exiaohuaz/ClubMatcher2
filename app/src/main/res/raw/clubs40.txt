@@ -1,0 +1,6 @@
+NAME CMU Board Game Club
+TAG Gaming 
+SIZE 74
+MEETINGTIME 11100 11219
+TIMECOM 120
+NOTES CMU Board Game Club -- We Play Games.  We provide a setting for people to get together to play board and card games.  From short 40-minute games to 10-hour monsters.  Anybody is welcome! For more information, please contact Michael Duggan: md5i@andrew.cmu.edu .

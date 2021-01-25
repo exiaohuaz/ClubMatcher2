@@ -1,0 +1,6 @@
+NAME Carnegie Mellon Racing
+TAG Techonology 
+SIZE 24
+MEETINGTIME 11250 11369
+TIMECOM 120
+NOTES CMU's Formula SAE Racing Team.\r\nDesign. Build. Test. Race.\r\nFounded 2000. For more information, please contact Griffin Della Grotte: gdellagr@andrew.cmu.edu .

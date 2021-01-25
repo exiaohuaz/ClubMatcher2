@@ -1,0 +1,6 @@
+NAME Study Abroad
+TAG Gaming 
+SIZE 84
+MEETINGTIME 4020 4079
+TIMECOM 60
+NOTES event":null,"organization":{"id":70303,"communityId":270,"institutionId":55,"name":"Study Abroad","shortName":"Study Abroad","nameSortKey":"S","websiteKey":"studyabroad","email":"goabroad@andrew.cmu.edu","description":null,"summary":"Where in the world will your path take you?\r\nThe study abroad staff of the Office of International Education (OIE) support Carnegie Mellon students to engage in study, work, or research abroad experiences.  \r\n For more information, please contact Linda Gentile: lgentile@andrew.cmu.edu .

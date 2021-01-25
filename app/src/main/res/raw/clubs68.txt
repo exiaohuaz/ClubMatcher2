@@ -1,0 +1,6 @@
+NAME Roosevelt Institute at CMU
+TAG Political-Activism 
+SIZE 44
+MEETINGTIME 5610 5669
+TIMECOM 60
+NOTES Roosevelt @CMU is a nonpartisan student led policy based think tank, providing students with a national network and resources to develop and implement policy ideas at the campus, local, state, and national levels. For more information, please contact Jacob Feldgoise: jfeldgoi@andrew.cmu.edu .

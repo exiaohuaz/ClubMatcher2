@@ -1,0 +1,6 @@
+NAME Carnegie Tech Radio Club
+TAG Techonology 
+SIZE 38
+MEETINGTIME 8460 8579
+TIMECOM 120
+NOTES W3VC Carnegie Tech Radio Club is Carnegie Mellon University's one and only amateur radio club.  Founded in 1914 for over 100 years we have catered to interests in all technological fields.  Come check us out! For more information, please contact Jeremy Klotz: jklotz@andrew.cmu.edu .

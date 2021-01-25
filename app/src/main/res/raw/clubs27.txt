@@ -1,0 +1,6 @@
+NAME Joint Funding Committee
+TAG Student-Government Techonology 
+SIZE 59
+MEETINGTIME 2490 2549
+TIMECOM 60
+NOTES Founded in 1995 For more information, please contact Frank Fan: wfan@andrew.cmu.edu .

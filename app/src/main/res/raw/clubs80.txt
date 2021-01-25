@@ -1,0 +1,6 @@
+NAME Chinese Students and Scholars Association
+TAG Multicultural 
+SIZE 91
+MEETINGTIME 11340 11399
+TIMECOM 60
+NOTES Founded in 1996, the Chinese Student and Scholar Association in Carnegie Mellon University (CMU-CSSA) is a student organization of more than 2,000 members, most of whom are with Chinese heritage. For more information, please contact Nan Gao: ngao1@andrew.cmu.edu .

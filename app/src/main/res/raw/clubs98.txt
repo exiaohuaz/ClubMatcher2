@@ -1,0 +1,6 @@
+NAME AB Concerts
+TAG GeneralInterestAndInvolvement 
+SIZE 13
+MEETINGTIME 3840 3899
+TIMECOM 60
+NOTES A permanent committee whose purpose is to provide musical entertainment for the campus community as a whole at subsidized prices. (More specifically the annual fall concert and spring carnival concert). For more information, please contact Justin Villalon: jvillalo@andrew.cmu.edu .

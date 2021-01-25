@@ -1,0 +1,6 @@
+NAME Amnesty International
+TAG Political-Activism 
+SIZE 38
+MEETINGTIME 5520 5579
+TIMECOM 60
+NOTES Amnesty International is an international human rights awareness and activist group dedicated to promoting human rights for all in the United States and Abroad. Check out our website for more information. For more information, please contact Sam Bolig: sbolig@andrew.cmu.edu .

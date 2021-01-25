@@ -1,0 +1,6 @@
+NAME Carnegie Mellon University Model United Nations 
+TAG Political-Activism 
+SIZE 58
+MEETINGTIME 9630 9689
+TIMECOM 60
+NOTES CMU Model UN aims to promote global awareness and facilitate the debate of international issues relevant to the world today amongst the campus community. Members compete at collegiate competitions and help run C@CM, our high school conference. For more information, please contact Sarah Zebar: szebar@andrew.cmu.edu .

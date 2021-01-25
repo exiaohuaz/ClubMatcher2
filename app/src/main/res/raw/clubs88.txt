@@ -1,0 +1,6 @@
+NAME HELP
+TAG Gaming Techonology Student-Government 
+SIZE 62
+MEETINGTIME 6900 6959
+TIMECOM 60
+NOTES This page is designed to provide help with The Bridge. You'll find phone numbers and links to resources on this site.  For more information, please contact Kaycee Palko: kpalko@andrew.cmu.edu .

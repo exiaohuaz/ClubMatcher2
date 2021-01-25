@@ -1,0 +1,6 @@
+NAME Carnegie Mellon Rotaract Club
+TAG Sports-Martial Arts Service-Philanthropy 
+SIZE 21
+MEETINGTIME 1140 1199
+TIMECOM 60
+NOTES CMU Rotaract is a professional development/community service hybrid club. For more information, please contact Alexander Rocha: arocha@andrew.cmu.edu .

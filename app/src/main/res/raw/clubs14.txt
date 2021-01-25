@@ -1,0 +1,6 @@
+NAME Badminton Club
+TAG Sports-Martial Arts 
+SIZE 94
+MEETINGTIME 1260 1319
+TIMECOM 60
+NOTES Founded in 2001\r\n\r\n For more information, please contact Angela Zhang: ayzhang@andrew.cmu.edu .

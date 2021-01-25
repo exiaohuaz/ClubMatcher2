@@ -1,0 +1,6 @@
+NAME ACM@CMU
+TAG Techonology 
+SIZE 66
+MEETINGTIME 8190 8309
+TIMECOM 120
+NOTES The official student chapter of the Association for Computing Machinery. For more information, please contact Cuebeom Choi: cuebeomc@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME CMU Energy Science and Innovation Club
+TAG Techonology 
+SIZE 64
+MEETINGTIME 2460 2519
+TIMECOM 60
+NOTES We aim to advance club members' awareness of current energy issues, technologies, research on campus, and industry practices. We host student, faculty, and industry speakers, and also make site visits to learn about real world practices.  For more information, please contact Fabricio Flores Yepez: wflores@andrew.cmu.edu .

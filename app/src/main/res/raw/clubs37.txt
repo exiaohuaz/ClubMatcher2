@@ -1,0 +1,6 @@
+NAME Arab Student Organization
+TAG Multicultural 
+SIZE 75
+MEETINGTIME 1020 1079
+TIMECOM 60
+NOTES Carnegie Mellon's Arab Student Organization (ASO) is the only student group that represents the diverse Arab cultures on campus.  For more information, please contact Michelle Madlansacay: mmadlans@andrew.cmu.edu .

@@ -1,0 +1,6 @@
+NAME Alpha Tau Omega
+TAG GreekLife 
+SIZE 20
+MEETINGTIME 2700 2819
+TIMECOM 120
+NOTES America's Leadership Development Fraternity with a passion for brotherhood and achievement. For more information, please contact Daniel Kim: dhk2@andrew.cmu.edu .

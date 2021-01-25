@@ -1,0 +1,6 @@
+NAME Undergraduate Student Senate
+TAG Techonology Student-Government 
+SIZE 98
+MEETINGTIME 8400 8519
+TIMECOM 120
+NOTES Legislative branch of student government, representing the undergraduate population. For more information, please contact Shiwani Pathak: shiwanip@andrew.cmu.edu .

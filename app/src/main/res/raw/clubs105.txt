@@ -1,0 +1,6 @@
+NAME Ballroom Dance Club
+TAG Performance-Artistic 
+SIZE 88
+MEETINGTIME 6780 6899
+TIMECOM 120
+NOTES Our main goal is to bring ballroom dancing to the Pittsburgh community through offering lessons, representing CMU at collegiate and national dance competitions, and performing at various events. Both students and non-students are welcome to join! For more information, please contact Jennifer Xiao: jrx@andrew.cmu.edu .

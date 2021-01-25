@@ -1,0 +1,6 @@
+NAME Applied Machine Learning Club
+TAG Techonology 
+SIZE 38
+MEETINGTIME 1050 1109
+TIMECOM 60
+NOTES The Applied Machine Learning Club focuses on providing opportunities for students to apply machine learning techniques to real-world data sets. We establish collaborations with local companies and faculty to identify the challenges that they face. For more information, please contact Cindy Zhang: xinciz@andrew.cmu.edu .

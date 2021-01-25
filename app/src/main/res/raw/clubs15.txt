@@ -1,0 +1,6 @@
+NAME The HUB
+TAG Gaming 
+SIZE 44
+MEETINGTIME 5430 5549
+TIMECOM 120
+NOTES event":null,"organization":{"id":74528,"communityId":270,"institutionId":55,"name":"The HUB","shortName":"The HUB","nameSortKey":"T","websiteKey":"hub","email":null,"description":null,"summary":"Carnegie Mellon's Student Service Center For more information, please contact Lucas Christain: lucasc@andrew.cmu.edu .

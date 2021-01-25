@@ -1,0 +1,6 @@
+NAME Student Dormitory Council (SDC)
+TAG Techonology Student-Government 
+SIZE 11
+MEETINGTIME 2610 2729
+TIMECOM 120
+NOTES The Student Dormitory Council (SDC) aims to improve the lives of residents at CMU by providing opportunities for residents to participate in events and activities through SDC, learn about residents around campus, and receive funding for their own events! For more information, please contact David Domalik: ddomalik@andrew.cmu.edu .

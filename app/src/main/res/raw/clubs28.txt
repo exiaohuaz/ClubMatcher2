@@ -1,0 +1,6 @@
+NAME MOSAIC: A Conference on Intersectionality
+TAG AnnualCampusEvent Gender-LGBT 
+SIZE 68
+MEETINGTIME 2520 2639
+TIMECOM 120
+NOTES \r\nOur understanding of gender and identity continues to evolve and expand and intersectionality holds a crucial role in that understanding. To reflect this, the focus of MOSAIC ‘19 will shift from gender to the more inclusive idea of intersectionality.  For more information, please contact Bianca  DeJesus: bmdejesu@andrew.cmu.edu .

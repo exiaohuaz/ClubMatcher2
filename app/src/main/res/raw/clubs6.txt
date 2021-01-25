@@ -1,0 +1,6 @@
+NAME Actuarial Club
+TAG Professional-Academic 
+SIZE 97
+MEETINGTIME 5460 5519
+TIMECOM 60
+NOTES Founded in 2005, the CMU Actuarial Club is dedicated to spreading awareness of the actuary profession, educating aspiring actuaries about the career, and developing professional and social networks. For more information, please contact Ye Won Doe: ydoe@andrew.cmu.edu .

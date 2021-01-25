@@ -1,0 +1,6 @@
+NAME SLICE
+TAG Gaming 
+SIZE 45
+MEETINGTIME 8460 8579
+TIMECOM 120
+NOTES event":null,"organization":{"id":62894,"communityId":270,"institutionId":55,"name":"SLICE","shortName":"","nameSortKey":"S","websiteKey":"slice","email":"slice@andrew.cmu.edu","description":null,"summary":"The Office of Student Leadership, Involvement, and Civic Engagement (SLICE) strives to prioritize the values of leadership and civic engagement, infusing them throughout a student’s involvement at Carnegie Mellon. For more information, please contact Dawn Sienko: dsienko@andrew.cmu.edu .

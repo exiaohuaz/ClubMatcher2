@@ -1,0 +1,6 @@
+NAME Carnegie Mellon University Figure Skating Club
+TAG Sports-Martial Arts 
+SIZE 15
+MEETINGTIME 5460 5519
+TIMECOM 60
+NOTES The mission of CMU FSC is to provide a safe and productive skating environment for active skaters at CMU as well as to raise awareness of the sport of figure skating at Carnegie Mellon as a whole. For more information, please contact Bethany Rispoli: brispoli@andrew.cmu.edu .
